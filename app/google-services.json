@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "774115831768",
+    "project_id": "rewear-cc3e7",
+    "storage_bucket": "rewear-cc3e7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:774115831768:android:4e2184366e95ebcf404cad",
+        "android_client_info": {
+          "package_name": "com.damtoy.rewear"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBWHQ4VGg_HWIDmxgFFVqz-czmzZjyLzY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

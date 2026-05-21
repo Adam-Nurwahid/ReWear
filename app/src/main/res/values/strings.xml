@@ -1,3 +1,32 @@
 <resources>
     <string name="app_name">ReWear</string>
+    <string name="action_save">Save to Wardrobe</string>
+    <string name="action_retake">Retake Photo</string>
+    <string name="action_generate">Style My Wardrobe</string>
+    <string name="loading">Loading...</string>
+
+    <string name="nav_dashboard">Dashboard</string>
+    <string name="nav_wardrobe">Wardrobe</string>
+    <string name="nav_outfit">AI Outfit</string>
+    <string name="nav_swap">Swap</string>
+
+    <string name="dashboard_title">Your Eco Impact</string>
+    <string name="dashboard_eco_score">Eco Score</string>
+    <string name="dashboard_items">Items</string>
+    <string name="dashboard_co2_saved">CO₂ Saved</string>
+    <string name="dashboard_water">Water</string>
+    <string name="dashboard_tips_title">Personalized Eco Tips</string>
+
+    <string name="wardrobe_empty">Your wardrobe is empty. Tap + to add items!</string>
+    <string name="add_clothing_title">Add Clothing</string>
+    <string name="add_clothing_name_label">Item Name</string>
+    <string name="add_clothing_weight_label">Weight (kg)</string>
+    <string name="add_clothing_camera_permission">Camera permission is required to add clothing.</string>
+
+    <string name="detail_environmental_impact">Environmental Impact</string>
+    <string name="detail_worn_button">I wore this!</string>
+    <string name="detail_mark_swap">Mark for Swap / Donate</string>
+    <string name="detail_unmark_swap">Remove from Swap List</string>
+    <string name="swap_title">Swap &amp; Donate</string>
+    <string name="swap_subtitle">Items you no longer wear. Swapping reduces fashion waste!</string>
 </resources>

@@ -1,1 +1,49 @@
+# Built artifacts
+bin
+gen
+out
+*.apk
+*.aar
+*.ap_
+*.aab
+
+# Files for the ART/Dalvik VM
+*.dex
+
+# Java class files
+*.class
+
+# Generated files
+**/build/
+**/generated/
+build/
+/build
+/*/build
+captures/
+
+# Local configuration file (sdk path, etc)
 local.properties
+
+# Android Studio local configuration files (re-created by IDE)
+.idea/workspace.xml
+.idea/gradle.xml
+.idea/assetWizardSettings.xml
+.idea/deploymentTargetSelector.xml
+.idea/caches/
+.idea/libraries/
+.idea/modules.xml
+.idea/navEditor.xml
+.idea/runConfigurations.xml
+.idea/ux.xml
+.idea/vcs.xml
+.idea/compiler.xml
+.idea/inspectionProfiles/
+.idea/misc.xml
+.idea/AndroidProjectSystem.xml
+*.iml
+
+# Kotlin
+.kotlin/
+
+# Gradle files
+.gradle/
