@@ -129,6 +129,9 @@ dependencies {
     // Play Services for Google One-Tap Login
     implementation("com.google.android.gms:play-services-auth:21.0.0")
 
+    // Play Services Location — for GPS/FusedLocationProviderClient
+    implementation("com.google.android.gms:play-services-location:21.3.0")
+
     // Google Generative AI (Gemini SDK)
     implementation("com.google.ai.client.generativeai:generativeai:0.9.0")
 }

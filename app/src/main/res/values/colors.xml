@@ -6,6 +6,9 @@
     <color name="green_container">#FFA0F5C8</color>
     <color name="green_container_dark">#FF005234</color>
 
+    <!-- Logo/Splash background — matches ic_launcher_background.xml #3DDC84 -->
+    <color name="logo_background">#FF3DDC84</color>
+
     <!-- Secondary Teal -->
     <color name="teal_secondary">#FF006879</color>
     <color name="teal_secondary_dark">#FF7AD7EB</color>

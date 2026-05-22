@@ -9,11 +9,15 @@ import androidx.compose.runtime.Composable
 import androidx.compose.runtime.LaunchedEffect
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
+import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.res.painterResource
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
 import com.damtoy.rewear.R
 import kotlinx.coroutines.delay
+
+// Matches ic_launcher_background.xml fill color (#3DDC84)
+private val SplashBackgroundColor = Color(0xFF3DDC84)
 
 @Composable
 fun SplashScreen(
@@ -27,7 +31,7 @@ fun SplashScreen(
     Box(
         modifier = Modifier
             .fillMaxSize()
-            .background(MaterialTheme.colorScheme.primary),
+            .background(SplashBackgroundColor),
         contentAlignment = Alignment.Center
     ) {
         Column(
